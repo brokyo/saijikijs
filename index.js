@@ -108,7 +108,7 @@ const DATE_TABLE = {
 
 
 
-var saijiki = {
+var saijiki =  {
 	/**
 	 * via https://gist.github.com/jherax/f11d669ba286f21b7a2dcff69621eb72
 	 * 
@@ -151,7 +151,6 @@ var saijiki = {
  		if (subSeason) {
 	 		DATE_TABLE.subSeason.forEach(season => {
 	 			if(moment().isBetween(season.min, season.max)) {
-	 				console.log(season.name)
 	 				currentSeason = season.name
 	 			}
 	 		}) 			
@@ -173,4 +172,4 @@ var saijiki = {
  	}
 }
 
-export default saijiki
+module.exports = saijiki

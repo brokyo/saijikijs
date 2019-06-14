@@ -1,6 +1,6 @@
 {
   "name": "saijikijs",
-  "version": "0.1.0",
+  "version": "0.1.3",
   "description": "a digital saijiki for net artists",
   "main": "index.js",
   "keywords": [
