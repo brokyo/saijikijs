@@ -45,7 +45,7 @@ Pass an object to `filter()` and pass the values as an array of strings
 |category | the season, the heavens, the earth, humanity, observances, animals, plants|
 | timeOfDay | morning, afternoon, evening |
 | weather | rain, snow, cloudy, clear|
-| conditions | cold, hot
+| conditions | cold, hot |
 
 ## Kigo Object
 Returned *kigo* objects give you a bunch of information. Here's a sample for 日永 which I think is nice imagery
