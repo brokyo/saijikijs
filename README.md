@@ -1,3 +1,4 @@
+
 # Saijiki.js
 > A *Saijiki* is a resource for poets that lists *kigo*, seasonal ideas
 > pervasive in Japanese culture, for the use of poets. 
@@ -6,7 +7,7 @@ Saijiki.js is an English language Saijiki 【歳時記】implemented in JavaScri
 
 I hope it can be used as a springboard for digital art as a traditional *Saijiki* is used for analog art.
 
-Want to know more? Check out the full introduction.
+Want to know more? [Check out the full introduction](https://medium.com/@brokyo/saijiki-js-%E6%AD%B3%E6%99%82%E8%A8%98-for-net-artists-and-computational-poets-adc93f68eff4?source=friends_link&sk=71dbd25cbcc67361a440ccc9946defa5).
 
 
 
