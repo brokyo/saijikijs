@@ -38,7 +38,8 @@ let kigoList = saijiki.today()
 ## Things You Can Filter On
 You can filter an arbitrary number of keys and values with `filter()`
 Pass an object to `filter()` and pass the values as an array of strings
-|Key|Value  |
+
+|Key|Value|
 |--|--|
 | season |spring, summer, autumn, winter, new year |
 | subSeason | early spring, mid spring, late spring, all spring, early summer, mid summer, late summer, all summer, early autumn, mid autumn, late autumn, all autumn, early winter, mid winter, late winter, all winter, new year |
