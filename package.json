@@ -1,0 +1,17 @@
+{
+  "name": "saijikijs",
+  "version": "0.1.0",
+  "description": "a digital saijiki for net artists",
+  "main": "index.js",
+  "keywords": [
+    "saijiki",
+    "haiku",
+    "poetry"
+  ],
+  "author": "alexcarusillo",
+  "license": "Unlicense",
+  "dependencies": {
+    "moment": "^2.24.0",
+    "moment-range": "^4.0.2"
+  }
+}
